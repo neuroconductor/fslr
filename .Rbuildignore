@@ -36,3 +36,8 @@ docs/*
 ^docs$
 ^pkgdown$
 ^R/probtrackx2\.R$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
