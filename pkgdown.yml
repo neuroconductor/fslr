@@ -1,0 +1,8 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1.9001
+pkgdown_sha: 5bd377e7cb6d268565018b73e4bb99d2788182ed
+articles:
+  dti_data: dti_data.html
+  fslr: fslr.html
+last_built: 2021-05-17T22:47Z
+
